@@ -16,7 +16,7 @@ run hole detection node:   ~ros2 run object_detection hole_detection_bode
 
 running the laser_detection_segments.py: 
 cd /nakai_sim/src/object_detection/object_detection/laser_detection$
-python3 laser_detection_segments.py 
+  python3 laser_detection_segments.py 
 
 
 
