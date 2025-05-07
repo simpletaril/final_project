@@ -1,5 +1,4 @@
-# final_project
-ros2 commands for running the project:
+# ros2 commands for running the project:
 
 build and source the environment: ~ colcon build,    ~source install/setup.bash
 
